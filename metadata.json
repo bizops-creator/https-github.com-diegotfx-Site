@@ -1,0 +1,6 @@
+{
+  "name": "Premium Growth Consultancy",
+  "description": "High-ticket marketing, growth, and client acquisition consultancy system with interactive AI growth generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
